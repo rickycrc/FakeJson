@@ -1,0 +1,24 @@
+{
+	"charts" : [
+		{
+			"label": "Africa",
+			"data": 2478
+		},
+		{
+			"label": "Asia",
+			"data": 563
+		},
+		{
+			"label": "Europe",
+			"data": 1589
+		},
+		{
+			"label": "Latin America",
+			"data": 896
+		},
+		{
+			"label": "North America",
+			"data": 5488
+		}
+	]
+}
